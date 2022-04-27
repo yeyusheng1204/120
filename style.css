@@ -1,7 +1,60 @@
-        body{
-            background-color: blanchedalmond;
-            color: bisque;
-        }
-        h1{
-            color:brown;
-        }
+@import url(normalize.css);
+
+body {
+    background-color:#b6ce1e;
+    color: rgb(206, 40, 40);
+}
+
+h1 {
+    width: 300px;
+    margin: 40px auto;
+    padding: 30px;
+    border: 5px solid #95dbbd;
+    background-color: #6fbb9a;
+    color: #fff;
+    font-size: 300%;
+    text-align: center;
+    line-height: 1;
+}
+
+#container {
+    background-color:bisque;
+    width: 980px;
+    margin: 0px auto;
+    color: black;
+}
+h2{
+    padding: 10px;
+    margin-bottom: 30px;
+    border: 1px dotted #94c8b1;
+    border-left: 10px solid #d0e35b;
+    color: #6fbb9a
+}
+#contents{
+    margin: 40px;
+    padding: 40px 80px;
+    border:1px solid #6fbb9e;
+    background-color: #fff;
+}
+.more{
+    text-align: right;
+}
+.round{
+    border-radius: 50%;
+}
+.h{
+    padding: 10px;
+    margin-bottom: 30px;
+    border: 1px dotted #94c8b1;
+    border-left: 10px solid #d0e35b;
+    color: #6fbb9a
+}
+header,nav,footer{
+    text-align: center;
+}
+body{
+    background-color: #fbf9cc;
+    background-image: url(img/bg.png);
+    background-repeat: repeat-x;
+    background-position: right top;
+}
