@@ -58,3 +58,20 @@ body{
     background-repeat: repeat-x;
     background-position: right top;
 }
+.menu li{
+    list-style-type: none;
+    border: 1px solid #f00;
+    display: inline-block;
+    width: 180px;
+    margin: 0 10px;
+}
+.menu a {
+    display: block;
+    padding: 10px;
+    background: #6fbb9a;
+    color: #fff;
+    text-decoration: none;
+}
+.menu a:hover{
+    background: #90ddbb;
+}
