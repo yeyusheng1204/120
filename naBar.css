@@ -1,0 +1,21 @@
+nav{
+    background-color: brown;
+    text-align: right;
+}
+
+nav li{
+    list-style-type: none;
+    display:inline-block ;
+}
+
+nav li a{
+    display: block;
+    text-decoration: none;
+    padding:10px;
+    color: white;
+}
+nav li a :hover{
+    background-color: lightyellow;
+    color: red;
+    transition: background-color 2s linear, color 2s ease-in-out;
+}
