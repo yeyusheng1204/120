@@ -124,7 +124,7 @@
 }
 /* 觸動第一層li時，改變背景色 */
 #menu ul li:hover, #menu ul li a:hover {
-	background:#3510b9;
+	background:#8b330b;
 }
 #menu ul li:hover a {
 	color:#3ac541;
