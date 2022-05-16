@@ -127,7 +127,7 @@
 	background:#8b330b;
 }
 #menu ul li:hover a {
-	color:#3ac541;
+	color:#2116be;
 }
 /* 觸動第二層以上li時改變背景色 */
 #menu ul li ul li:hover, #menu ul li ul li a:hover {
