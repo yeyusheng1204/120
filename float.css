@@ -1,18 +1,18 @@
 header{
     height: 150px;
-    background-color: rgb(115, 255, 255);
+    background-color: rgb(20, 207, 135);
 
 }
 aside{
     height: 300px;
-    background-color: aquamarine;
+    background-color: rgb(122, 209, 40);
     width: 20%;
     float: left;
     
 }
 section{
     height: 300px;
-    background-color: rgb(255, 194, 255);
+    background-color: rgb(226, 173, 193);
     width: 80%;
     float: right;
 }
@@ -24,7 +24,7 @@ footer{
 .post{
     font-size: 25px;
     font-weight: bold;
-    color: rgb(97, 0, 187);
+    color: rgb(211, 91, 11);
     line-height: 0px;
     text-align: center;
     padding: 50px 25px;
